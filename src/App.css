@@ -1,0 +1,33 @@
+.font{
+  font-family: "Cormorant Garamond", serif;
+}
+.namebg{
+  background-image: url(namebg.png);
+}
+
+.bg{
+  background: #252734
+}
+.bg2{
+  background: #2a2c39
+}
+.custom-dot-list-style {
+  position: absolute;
+  bottom: -60px;
+  
+}
+
+.react-multi-carousel-dot button {
+  width: 10px;
+  height: 10px;
+  background-color: #666;
+  border-radius: 50%;
+  margin: 0 5px;
+  border: none;
+  
+  transition:  0.3s ease;
+}
+
+.react-multi-carousel-dot--active button {
+  background-color: white;
+}
