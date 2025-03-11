@@ -13,10 +13,10 @@ export default function About(){
           }, []);
     return(
         <>
-        <section id="about" className="lg:flex justify-center gap-20 lg:items-center bg2 lg:pt-10 pt-5 lg:justify-items-start justify-items-center overflow-hidden">
+        <section id="about" className="lg:flex lg:justify-center gap-20 lg:items-center bg2 lg:pt-10 pt-5 lg:justify-items-start justify-items-center overflow-hidden">
             <div data-aos="fade-right">
-                <img src="abt.png" alt="" className="xl:h-[600px] lg:h-[360px] md:h-[300px] h-[250px]"  />
-            </div>
+                <img src="abt.png" alt="" className="xl:h-[600px] lg:h-[360px] md:h-[300px] h-[250px] justify-items-center"  />
+            </div> 
             <div className="bg xl:p-8 p-5   lg:mx-0 md:mx-40 mx-2"data-aos="fade-left">
                 <div className="sm:p-3">
                     <p className="text-white md:text-3xl text-xl md:pb-4 pb-2 font-bold">ABOUT <span className="text-gray-400">ME</span> </p>

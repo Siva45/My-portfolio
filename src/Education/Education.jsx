@@ -22,7 +22,7 @@ const timelineData = [
     description:"I Had completed React.js course in Rexcoders ,Nagercoil"
   },
   {
-    title: "INTERNSIP AT WEB DESIGNER",
+    title: "INTERNSHIP AT WEB DESIGNER",
     date: "NOV 2024 - JAN 2025",
     university: "Rexcoders",
     description:"I had done Internship at Rexcoders and I had worked in the projects as web designer"
