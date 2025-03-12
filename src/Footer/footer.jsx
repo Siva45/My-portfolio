@@ -4,7 +4,7 @@ const Footer = () => {
         {/* Subscribe Section */}
         <div className="text-center max-w-3xl mx-auto">
           <p className="text-sm uppercase tracking-wide text-gray-400">|| Get Latest Updates</p>
-          <h2 className="text-4xl font-semibold my-4">Subscribe For Newsletter</h2>
+          <h2 className="md:text-4xl text-3xl font-semibold my-4 font">Subscribe For Newsletter</h2>
   
           <div className="flex flex-col md:flex-row justify-center items-center gap-4 mt-6">
             <input

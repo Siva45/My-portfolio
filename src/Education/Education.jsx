@@ -4,7 +4,7 @@ import "aos/dist/aos.css";
 import { useEffect } from "react";
 const timelineData = [
   {
-    title: "BACHALOR DEGREE",
+    title: "BACHELOR DEGREE",
     date: "JUNE 2019 - MAY 2022",
     university: "MANONMANIAM SUNDARANATH UNIVERSITY",
     description:"I had completed my Bachelor's degree in Bachelor of Computer Application (BCA) from Scott Christian College, Nagercoil."
@@ -22,7 +22,7 @@ const timelineData = [
     description:"I Had completed React.js course in Rexcoders ,Nagercoil"
   },
   {
-    title: "INTERNSHIP AT WEB DESIGNER",
+    title: "INTERNSHIP AS WEB DESIGNER",
     date: "NOV 2024 - JAN 2025",
     university: "Rexcoders",
     description:"I had done Internship at Rexcoders and I had worked in the projects as web designer"
