@@ -15,7 +15,7 @@ export default function About(){
         <>
         <section id="about" className="lg:flex lg:justify-center gap-20 lg:items-center bg2 lg:pt-10 pt-5 lg:justify-items-start justify-items-center overflow-hidden">
             <div data-aos="fade-right">
-                <img src="abt.png" alt="" className="xl:h-[600px] lg:h-[360px] md:h-[300px] h-[250px] justify-items-center"  />
+                <img src="abt.png" alt="" className="xl:h-[600px] lg:h-[360px] md:h-[300px] h-[250px] lg:items-start items-center"  />
             </div> 
             <div className="bg xl:p-8 p-5   lg:mx-0 md:mx-40 mx-2"data-aos="fade-left">
                 <div className="sm:p-3">
